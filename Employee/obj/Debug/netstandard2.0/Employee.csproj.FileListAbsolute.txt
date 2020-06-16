@@ -1,0 +1,9 @@
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\bin\Debug\netstandard2.0\Employee.deps.json
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\bin\Debug\netstandard2.0\Employee.dll
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\bin\Debug\netstandard2.0\Employee.pdb
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\obj\Debug\netstandard2.0\Employee.csprojAssemblyReference.cache
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\obj\Debug\netstandard2.0\Employee.AssemblyInfoInputs.cache
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\obj\Debug\netstandard2.0\Employee.AssemblyInfo.cs
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\obj\Debug\netstandard2.0\Employee.csproj.CoreCompileInputs.cache
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\obj\Debug\netstandard2.0\Employee.dll
+D:\RAK\Pits\Workshop\AuthenticationDemo\Employee\obj\Debug\netstandard2.0\Employee.pdb
